@@ -1,7 +1,6 @@
-package HDipWork;
 import java.util.*;
 
-public class Solution {
+public class LinkedList {
     public static void main(String args[]) throws Exception {
 
         String inputString = "4\n345\n856\n853\n173\n0 -1 1\n1 0 2\n2 1 3\n3 2 -1";
