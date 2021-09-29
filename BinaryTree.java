@@ -1,5 +1,4 @@
 /* The goal is to convert a character String into a binary string Huffman encoding. 
-Some of the files have been provided on Moodle, such as Huffman.java, Node.java and Tree.java. There are some gaps you will have to fill in.
 
 
 As we've seen, the way a Huffman tree is built is not deterministic, because when you have multiple trees with the same lowest weighting, 
@@ -11,7 +10,8 @@ and always put the lowest of those two on the left.
 For instance, every ASCII character is associated with a number, so every tree will have a lowest value ASCII character in it - (e.g. capital A is the lowest ASCII letter). 
 Always connect the two trees that have the lowest characters anywhere inside them, with the lowest on the left. Now everybody should end up with the same trees and the same coding. 
 This as simple as saying: take the Priority Queue and as well as sorting on frequency, sort on lowest character as well. 
-When two are popped from the Priority Queue, put the first to be popped on the left.​
+When two are popped from the Priority Queue, put the first to be popped on the left.
+
 
 Example Input
 
