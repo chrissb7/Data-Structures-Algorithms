@@ -24,7 +24,7 @@ Example Output
 
 import java.util.*;
 
-public class huffmanAlgorithm2 {
+public class BinaryTree {
     public static void main(String args[]) throws Exception {
         Scanner in = new Scanner(System.in);
         String sentence = in .nextLine();
