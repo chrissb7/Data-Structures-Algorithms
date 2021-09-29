@@ -15,7 +15,7 @@ PUSH 2
 Expected Output
 6 */
 
-class Queue {
+public class Queue {
 
     public static void main(String args[]) {
 
