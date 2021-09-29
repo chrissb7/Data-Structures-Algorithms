@@ -7,7 +7,7 @@ If there is an even number of strings in the queue, thus two middle strings, out
 If a remove command is issued for an empty queue then nothing should happen.
 
 
-Sample Input
+Example Input
 
 INSERT this
 INSERT is
